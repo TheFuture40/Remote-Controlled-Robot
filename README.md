@@ -18,7 +18,7 @@ A simple remote control robot system using two Arduino boards: one as a **master
 | Component                | Quantity |
 |--------------------------|----------|
 | Arduino Uno              | 2        |
-| HC-05 / HC-06 Bluetooth Module | 2    |
+| HC-06 Bluetooth Module | 2    |
 | Joystick Module          | 1        |
 | Adafruit Motor Shield v1 | 1        |
 | DC Motors (with wheels)  | 2        |
